@@ -1,0 +1,12 @@
+
+1. Build external library:
+	cd external;
+	make
+	
+2. Build node module
+	back to project root folder
+	npm install
+	
+3. Run test nodeJS app
+	node qos.js
+	
